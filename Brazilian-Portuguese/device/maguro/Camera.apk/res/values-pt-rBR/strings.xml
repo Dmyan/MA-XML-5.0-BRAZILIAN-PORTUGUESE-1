@@ -3,8 +3,8 @@
     <string name="access_sd_fail">Não foi possível acessar o cartão SD.</string>
     <string name="accessibility_back_to_first_level">Fechar painel de controle.</string>
     <string name="accessibility_camera_picker">Botão da câmera frontal e traseira</string>
-    <string name="accessibility_decrement">Decrease %1$s</string>
-    <string name="accessibility_increment">Increase %1$s</string>
+    <string name="accessibility_decrement">Reduz %1$s</string>
+    <string name="accessibility_increment">Aumenta %1$s</string>
     <string name="accessibility_mode_picker">Camera, video or panorama selector</string>
     <string name="accessibility_review_thumbnail">Foto mais recente</string>
     <string name="accessibility_second_level_indicators">Mais configurações</string>
